@@ -1,0 +1,15 @@
+.custom_navbar{
+    background-color: black;
+    color: white;
+}
+.nav-link{
+    color: white;
+}   
+.custom_navbar .nav-link{
+
+    color: white;
+}
+.custom_navbar .navbar-brand{
+
+    color: white;
+}
